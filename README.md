@@ -1,7 +1,7 @@
 # API Websites Analysis (STA 141B - Final Project)
 ### Group member:  Shih-Chi Chen (#917995392)
 
-This project is aim to analyze if there exist some characteristics for a popular AIP website and also analyze these websites' domain type and status code.
+This project is aim to analyze if there exist some characteristics for a popular API website and also analyze these websites' domain type and status code.
 
 Explore Questions:
  1. What category of API is popular?
